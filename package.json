@@ -1,0 +1,23 @@
+{
+  "name": "tlgbot-sample",
+  "version": "1.0.0",
+  "description": "my first tlg bot",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.34.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workaholicsClub/tlgbot-sample.git"
+  },
+  "author": "Alexander Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/workaholicsClub/tlgbot-sample/issues"
+  },
+  "homepage": "https://github.com/workaholicsClub/tlgbot-sample#readme"
+}
